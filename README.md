@@ -2,6 +2,9 @@
 
 AgentX is a defensive AI platform designed to utilize Socratic questioning to stop AI hallucinations and rogue actions before they happen.
 
+## Disclaimer
+Please note that I did not come up with the product idea itself—this project is purely a frontend design and development showcase of the website.
+
 ## Inspiration & Motivation
 I built this project because I was absolutely tired of seeing cheaply and badly made AI websites flooding the internet. I wanted to prove a point: it is completely possible to make stunning, high-quality, and premium AI websites. You just have to be willing to put in the effort and care about the design.
 
